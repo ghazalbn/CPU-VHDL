@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Project/CA_LAB_Project/FullAdder4Bit.xst" -ofn "D:/Project/CA_LAB_Project/FullAdder4Bit.syr" 

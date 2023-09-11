@@ -1,0 +1,3 @@
+vhdl work "I:/vhd_files/HAdder.vhd"
+vhdl work "I:/vhd_files/full_adder.vhd"
+vhdl work "I:/vhd_files/full_adder_4bit.vhd"
